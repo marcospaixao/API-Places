@@ -1,0 +1,316 @@
+{
+    "type" : "FeatureCollection",
+    "features" : [{
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.640133,
+                    -23.647158
+                ]
+            },
+            "properties" : {
+                "name" : "Jabaquara",
+                "description" : "Estação Jabaquara"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.641186,
+                    -23.636181
+                ]
+            },
+            "properties" : {
+                "name" : "Conceição",
+                "description" : "Estação Conceição"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.640926,
+                    -23.625717
+                ]
+            },
+            "properties" : {
+                "name" : "São Judas",
+                "description" : "Estação São Judas"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.639381,
+                    -23.619236
+                ]
+            },
+            "properties" : {
+                "name" : "Saúde",
+                "description" : "Estação Saúde"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.637718,
+                    -23.610819
+                ]
+            },
+            "properties" : {
+                "name" : "Praça da Árvore",
+                "description" : "Estação Praça da Árvore"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.636662,
+                    -23.599228
+                ]
+            },
+            "properties" : {
+                "name" : "Santa Cruz",
+                "description" : "Estação Santa Cruz"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.634705,
+                    -23.589544
+                ]
+            },
+            "properties" : {
+                "name" : "Vila Mariana",
+                "description" : "Estação Vila Mariana"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.638493,
+                    -23.581207
+                ]
+            },
+            "properties" : {
+                "name" : "Ana Rosa",
+                "description" : "Estação Ana Rosa"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.640556,
+                    -23.57497
+                ]
+            },
+            "properties" : {
+                "name" : "Paraiso",
+                "description" : "Estação Paraíso"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.640007,
+                    -23.569138
+                ]
+            },
+            "properties" : {
+                "name" : "Vergueiro",
+                "description" : "Estação Vergueiro"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.638599,
+                    -23.561863
+                ]
+            },
+            "properties" : {
+                "name" : "São Joaquim",
+                "description" : "Estação São Joaquim"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.635605,
+                    -23.554728
+                ]
+            },
+            "properties" : {
+                "name" : "Liberdade",
+                "description" : "Estação Liberdade"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.633705,
+                    -23.55072
+                ]
+            },
+            "properties" : {
+                "name" : "Sé",
+                "description" : "Estação Sé"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.633789,
+                    -23.543962
+                ]
+            },
+            "properties" : {
+                "name" : "São Bento",
+                "description" : "Estação São Bento"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.633694,
+                    -23.537695
+                ]
+            },
+            "properties" : {
+                "name" : "Luz",
+                "description" : "Estação Luz"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.631962,
+                    -23.530861
+                ]
+            },
+            "properties" : {
+                "name" : "Tiradentes",
+                "description" : "Estação Tiradentes"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.629322,
+                    -23.525549
+                ]
+            },
+            "properties" : {
+                "name" : "Armênia",
+                "description" : "Estação Armênia"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.62513,
+                    -23.516588
+                ]
+            },
+            "properties" : {
+                "name" : "Portuguesa-Tietê",
+                "description" : "Estação Portuguesa-Tietê"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.624912,
+                    -23.509657
+                ]
+            },
+            "properties" : {
+                "name" : "Carandiru",
+                "description" : ""
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.62466,
+                    -23.502676
+                ]
+            },
+            "properties" : {
+                "name" : "Santana",
+                "description" : "Estação Santanaa"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.616688,
+                    -23.492237
+                ]
+            },
+            "properties" : {
+                "name" : "Jardim São Paulo",
+                "description" : "Estação Jardim São Paulo"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.608883,
+                    -23.487116
+                ]
+            },
+            "properties" : {
+                "name" : "Parada Inglesa",
+                "description" : "Estação Parada Inglesa"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -46.603214,
+                    -23.480053
+                ]
+            },
+            "properties" : {
+                "name" : "Tucuruvi",
+                "description" : "Estação Tucuruvi"
+            }
+        }, {
+            "type" : "Feature",
+            "geometry" : {
+                "type" : "LineString",
+                "coordinates" : [
+                    [-46.640133, -23.647158], [-46.641186, -23.636181], [-46.640926, -23.625717], [-46.639381, -23.619236], [-46.637718, -23.610819], [-46.636662, -23.599228], [-46.634705, -23.589544], [-46.638493, -23.581207], [-46.640556, -23.57497], [-46.640007, -23.569138], [-46.638599, -23.561863], [-46.635605, -23.554728], [-46.633705, -23.55072], [-46.633789, -23.543962], [-46.633694, -23.537695], [-46.631962, -23.530861], [-46.629322, -23.525549], [-46.62513, -23.516588], [-46.624912, -23.509657], [-46.62466, -23.502676], [-46.616688, -23.492237], [-46.608883, -23.487116], [-46.603214, -23.480053]
+                ]
+            },
+            "properties" : {
+                "name" : "Azul",
+                "description" : "Linha Azul"
+            }
+        }
+    ]
+}
