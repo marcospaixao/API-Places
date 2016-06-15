@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Placemark>
+			<name>Jabaquara</name>
+			<description>Estação Jabaquara</description>
+			<Point>
+				<coordinates>-46.6410130262375,-23.6464455906658</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Conceição</name>
+			<description>Estação Conceição</description>
+			<Point>
+				<coordinates>-46.6413000226021,-23.6349659594158</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Judas</name>
+			<description>Estação São Judas</description>
+			<Point>
+				<coordinates>-46.6411203145981,-23.6260361152936</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saúde</name>
+			<description>Estação Saúde</description>
+			<Point>
+				<coordinates>-46.6391944885254,-23.6181869823662</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Praça da Árvore</name>
+			<description>Estação Praça da Árvore</description>
+			<Point>
+				<coordinates>-46.6379177570343,-23.610357040686</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santa Cruz</name>
+			<description>Estação Santa Cruz</description>
+			<Point>
+				<coordinates>-46.636662,-23.599228</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vila Mariana</name>
+			<description>Estação Vila Mariana</description>
+			<Point>
+				<coordinates>-46.634705,-23.589544</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ana Rosa</name>
+			<description>Estação Ana Rosa</description>
+			<Point>
+				<coordinates>-46.6378051042557,-23.5822578072713</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paraiso</name>
+			<description>Estação Paraiso</description>
+			<Point>
+				<coordinates>-46.6408199071884,-23.5753402255126</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vergueiro</name>
+			<description>Estação Vergueiro</description>
+			<Point>
+				<coordinates>-46.6399294137955,-23.5684616147558</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Joaquim</name>
+			<description>Estação São Joaquim</description>
+			<Point>
+				<coordinates>-46.638599,-23.561863</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liberdade</name>
+			<description>Estação Liberdade</description>
+			<Point>
+				<coordinates>-46.635519862175,-23.5551507996352</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sé</name>
+			<description>Estação Sé</description>
+			<Point>
+				<coordinates>-46.633705,-23.55072</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Bento</name>
+			<description>Estação São Bento</description>
+			<Point>
+				<coordinates>-46.6341841220856,-23.5440713576532</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Luz</name>
+			<description>Estação Luz</description>
+			<Point>
+				<coordinates>-46.6347098350525,-23.5355632074781</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiradentes</name>
+			<description>Estação Tiradentes</description>
+			<Point>
+				<coordinates>-46.6323924064636,-23.531038417914</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Armênia</name>
+			<description>Estação Armênia</description>
+			<Point>
+				<coordinates>-46.6293668746948,-23.5254412346696</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Portuguesa-Tietê</name>
+			<description>Estação Portuguesa-Tietê</description>
+			<Point>
+				<coordinates>-46.62513,-23.516588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carandiru</name>
+			<description>Estação Carandiru</description>
+			<Point>
+				<coordinates>-46.624912,-23.509657</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santana</name>
+			<description>Estação Santana</description>
+			<Point>
+				<coordinates>-46.62466,-23.502676</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jardim São Paulo</name>
+			<description>Estação Jardim São Paulo</description>
+			<Point>
+				<coordinates>-46.6169106960297,-23.4924730307706</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parada Inglesa</name>
+			<description>Estação Parada Inglesa</description>
+			<Point>
+				<coordinates>-46.608883,-23.487116</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tucuruvi</name>
+			<description>Estação Tucuruvi</description>
+			<Point>
+				<coordinates>-46.603214,-23.480053</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linha Azul (Metrô)</name>
+			<description>Linha 01 Azul (São Paulo, SP)</description>
+			<LineString>
+				<coordinates>-46.6410130262375,-23.6464455906658 -46.6413000226021,-23.6349659594158 -46.6411203145981,-23.6260361152936 -46.6391944885254,-23.6181869823662 -46.6379177570343,-23.610357040686 -46.636662,-23.599228 -46.634705,-23.589544 -46.6378051042557,-23.5822578072713 -46.6408199071884,-23.5753402255126 -46.6399294137955,-23.5684616147558 -46.638599,-23.561863 -46.635519862175,-23.5551507996352 -46.633705,-23.55072 -46.6341841220856,-23.5440713576532 -46.6347098350525,-23.5355632074781 -46.6323924064636,-23.531038417914 -46.6293668746948,-23.5254412346696 -46.62513,-23.516588 -46.624912,-23.509657 -46.62466,-23.502676 -46.6169106960297,-23.4924730307706 -46.608883,-23.487116 -46.603214,-23.480053</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>

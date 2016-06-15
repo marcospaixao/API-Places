@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Placemark>
+			<name>Vila Prudente</name>
+			<description>Terminal Vila Prudente (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.5848296069371,-23.583966704788</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vila Nova Cachoeirinha</name>
+			<description>Terminal Vila Nova Cachoeirinha (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6700456393412,-23.474883699307</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varginha</name>
+			<description>Terminal Varginha (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7184564501763,-23.7674553904215</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Miguel</name>
+			<description>Terminal São Miguel (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.4347483773322,-23.4917886860936</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>São Mateus</name>
+			<description>Terminal São Mateus (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.4764345671155,-23.6136168971176</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sapopemba</name>
+			<description>Terminal Sapopemba (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.5009920103409,-23.6141981523948</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santo Amaro</name>
+			<description>Terminal Santo Amaro (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7112441996088,-23.6543172524178</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sacomã</name>
+			<description>Terminal Sacomã (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6029489491205,-23.6031795422648</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Princesa Isabel</name>
+			<description>Terminal Princesa Isabel (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.644858999537,-23.5343495986529</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pirituba</name>
+			<description>Terminal Pirituba (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7263751657499,-23.4862589490992</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Penha</name>
+			<description>Terminal Penha (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.5480190605486,-23.518565592523</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parelheiros</name>
+			<description>Terminal Parelheiros (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7236067280352,-23.8332376598026</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parque Dom Pedro II</name>
+			<description>Terminal Parque Dom Pedro II (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6300536922791,-23.5472650792301</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mercado</name>
+			<description>Terminal Mercado (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6287781782158,-23.5478135393576</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lapa</name>
+			<description>Terminal Lapa (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6998674871094,-23.5201697994853</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jardim Britânia</name>
+			<description>Terminal Jardim Britânia (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7870952870159,-23.4317882196627</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jardim Ângela</name>
+			<description>Terminal Jardim Ângela (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7739356163605,-23.6905078194219</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>João Dias</name>
+			<description>Terminal João Dias (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7339791711748,-23.6436966524389</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guarapiranga</name>
+			<description>Terminal Guarapiranga (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.735515111541,-23.6685268711369</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grajaú</name>
+			<description>Terminal Grajaú (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6968824532641,-23.7365866675798</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cidade Tiradentes</name>
+			<description>Terminal Cidade Tiradentes (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.4079442819008,-23.5833673939848</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Casa Verde</name>
+			<description>Terminal Casa Verde (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6626317363841,-23.4962210439028</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrão</name>
+			<description>Terminal Carrão (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.5230488871341,-23.5583772382566</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Capelinha</name>
+			<description>Terminal Capelinha (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.7625809942357,-23.654088067649</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bandeira</name>
+			<description>Terminal Bandeira (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6397587901428,-23.5494483517194</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aricanduva</name>
+			<description>Terminal Aricanduva (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.5542789397029,-23.5287522499361</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antônio Estêvão de Carvalho</name>
+			<description>Terminal Cidade Antônio Estêvão de Carvalho (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.475703100634,-23.5182810951488</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amaral Gurgel</name>
+			<description>Terminal Amaral Gurgel (São Paulo, SP)</description>
+			<Point>
+				<coordinates>-46.6476275490328,-23.5405311273372</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
