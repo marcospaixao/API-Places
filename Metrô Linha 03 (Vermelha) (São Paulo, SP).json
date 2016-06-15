@@ -1,0 +1,199 @@
+{
+	"type" : "FeatureCollection",
+	"properties" : {
+		"name" : "Linha Vermelha (Metrô 03, SP)",
+		"description" : "Linha Vermelha (São Paulo, SP)"
+	},
+	"features" : [{
+			"geometry" : {
+				"coordinates" : [-46.6675195255449, -23.5259093845993],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Barra Funda",
+				"name" : "Barra Funda"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6555452346802, -23.5340090581742],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Marechal Deodoro",
+				"name" : "Marechal Deodoro"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6489791870117, -23.5380419392576],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Santa Cecília",
+				"name" : "Santa Cecília"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6425978646784, -23.5442234955344],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação República",
+				"name" : "República"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6391875680265, -23.5479719464775],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Anhangabaú",
+				"name" : "Anhangabaú"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6327325550588, -23.5501121528815],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Sé",
+				"name" : "Sé"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6258804640146, -23.5496416236265],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Pedro II",
+				"name" : "Pedro II"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.615849834424, -23.5478128970946],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Brás",
+				"name" : "Brás"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6070112283407, -23.5462935584698],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Bresser",
+				"name" : "Bresser"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.5895476232113, -23.5428373110356],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Belém",
+				"name" : "Belém"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.5767884263984, -23.540578643661],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Tatuapé",
+				"name" : "Tatuapé"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.5645065643685, -23.537835366482],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Carrão",
+				"name" : "Carrão"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.5421773849682, -23.5337469480723],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Penha",
+				"name" : "Penha"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.5305041766122, -23.5320012065983],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Vila Matilde",
+				"name" : "Vila Matilde"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.5159691616253, -23.5294475009083],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Guilhermina - Esperança",
+				"name" : "Guilhermina - Esperança"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.5010747599674, -23.531206721544],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Patriarca",
+				"name" : "Patriarca"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.4843676309756, -23.5402710745429],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Artur Alvin",
+				"name" : "Artur Alvin"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.4711531805703, -23.5422602536128],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Corinthians - Itaquera",
+				"name" : "Corinthians - Itaquera"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [[-46.6675195255449, -23.5259093845993], [-46.6555452346802, -23.5340090581742], [-46.6489791870117, -23.5380419392576], [-46.6425978646784, -23.5442234955344], [-46.6391875680265, -23.5479719464775], [-46.6327325550588, -23.5501121528815], [-46.6258804640146, -23.5496416236265], [-46.615849834424, -23.5478128970946], [-46.6070112283407, -23.5462935584698], [-46.5895476232113, -23.5428373110356], [-46.5767884263984, -23.540578643661], [-46.5645065643685, -23.537835366482], [-46.5421773849682, -23.5337469480723], [-46.5305041766122, -23.5320012065983], [-46.5159691616253, -23.5294475009083], [-46.5010747599674, -23.531206721544], [-46.4843676309756, -23.5402710745429], [-46.4711531805703, -23.5422602536128]],
+				"type" : "LineString"
+			},
+			"properties" : {
+				"description" : "Linha 03 Vermelha (São Paulo, SP)",
+				"name" : "Linha Vermelha (Metrô)"
+			},
+			"type" : "Feature"
+		}
+	]	
+}

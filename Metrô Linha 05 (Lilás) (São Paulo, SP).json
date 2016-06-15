@@ -1,0 +1,79 @@
+{
+	"type" : "FeatureCollection",
+	"properties" : {
+		"name" : "Linha Lilás (Metrô 05, SP)",
+		"description" : "Linha Lilás (São Paulo, SP)"
+	},
+	"features" : [{
+			"geometry" : {
+				"coordinates" : [-46.7680814489583, -23.6593017454069],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Capão Redondo",
+				"name" : "Capão Redondo"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.7591608215021, -23.649571912976],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Campo Limpo",
+				"name" : "Campo Limpo"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.7457922015419, -23.6403578872873],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Vila das Belezas",
+				"name" : "Vila das Belezas"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.734174003567, -23.6439376920186],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Giovanni Gronchi",
+				"name" : "Giovanni Gronchi"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.7208639420463, -23.655733444218],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Santo Amaro",
+				"name" : "Santo Amaro"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.7080307006836, -23.6540375161547],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Largo Treze",
+				"name" : "Largo Treze"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [[-46.7680814489583, -23.6593017454069], [-46.7591608215021, -23.649571912976], [-46.7457922015419, -23.6403578872873], [-46.734174003567, -23.6439376920186], [-46.7208639420463, -23.655733444218], [-46.7080307006836, -23.6540375161547]],
+				"type" : "LineString"
+			},
+			"properties" : {
+				"description" : "Linha 05 Lilás (São Paulo, SP)",
+				"name" : "Linha Lilás (Metrô)"
+			},
+			"type" : "Feature"
+		}
+	]
+}

@@ -1,0 +1,249 @@
+{
+	"type" : "FeatureCollection",
+	"properties" : {
+		"name" : "Linha Azul (Metrô 01, SP)",
+		"description" : "Linha Azul (São Paulo, SP)"
+	},
+	"features" : [{
+			"geometry" : {
+				"coordinates" : [-46.6410130262375, -23.6464455906658],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Jabaquara",
+				"name" : "Jabaquara"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6413000226021, -23.6349659594158],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Conceição",
+				"name" : "Conceição"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6411203145981, -23.6260361152936],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação São Judas",
+				"name" : "São Judas"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6391944885254, -23.6181869823662],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Saúde",
+				"name" : "Saúde"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6379177570343, -23.610357040686],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Praça da Árvore",
+				"name" : "Praça da Árvore"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.636662, -23.599228],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Santa Cruz",
+				"name" : "Santa Cruz"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.634705, -23.589544],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Vila Mariana",
+				"name" : "Vila Mariana"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6378051042557, -23.5822578072713],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Ana Rosa",
+				"name" : "Ana Rosa"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6408199071884, -23.5753402255126],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Paraiso",
+				"name" : "Paraiso"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6399294137955, -23.5684616147558],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Vergueiro",
+				"name" : "Vergueiro"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.638599, -23.561863],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação São Joaquim",
+				"name" : "São Joaquim"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.635519862175, -23.5551507996352],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Liberdade",
+				"name" : "Liberdade"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.633705, -23.55072],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Sé",
+				"name" : "Sé"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6341841220856, -23.5440713576532],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação São Bento",
+				"name" : "São Bento"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6347098350525, -23.5355632074781],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Luz",
+				"name" : "Luz"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6323924064636, -23.531038417914],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Tiradentes",
+				"name" : "Tiradentes"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6293668746948, -23.5254412346696],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Armênia",
+				"name" : "Armênia"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.62513, -23.516588],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Portuguesa-Tietê",
+				"name" : "Portuguesa-Tietê"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.624912, -23.509657],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Carandiru",
+				"name" : "Carandiru"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.62466, -23.502676],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Santana",
+				"name" : "Santana"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.6169106960297, -23.4924730307706],
+				"type" : "Point"
+				},
+			"properties" : {
+				"description" : "Estação Jardim São Paulo",
+				"name" : "Jardim São Paulo"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.608883, -23.487116],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Parada Inglesa",
+				"name" : "Parada Inglesa"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-46.603214, -23.480053],
+				"type" : "Point"
+			},
+			"properties" : {
+				"description" : "Estação Tucuruvi",
+				"name" : "Tucuruvi"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [[-46.6410130262375, -23.6464455906658], [-46.6413000226021, -23.6349659594158], [-46.6411203145981, -23.6260361152936], [-46.6391944885254, -23.6181869823662], [-46.6379177570343, -23.610357040686], [-46.636662, -23.599228], [-46.634705, -23.589544], [-46.6378051042557, -23.5822578072713], [-46.6408199071884, -23.5753402255126], [-46.6399294137955, -23.5684616147558], [-46.638599, -23.561863], [-46.635519862175, -23.5551507996352], [-46.633705, -23.55072], [-46.6341841220856, -23.5440713576532], [-46.6347098350525, -23.5355632074781], [-46.6323924064636, -23.531038417914], [-46.6293668746948, -23.5254412346696], [-46.62513, -23.516588], [-46.624912, -23.509657], [-46.62466, -23.502676], [-46.6169106960297, -23.4924730307706], [-46.608883, -23.487116], [-46.603214, -23.480053]],
+				"type" : "LineString"
+			},
+			"properties" : {
+				"description" : "Linha 01 Azul (São Paulo, SP)",
+				"name" : "Linha Azul (Metrô)"
+			},
+			"type" : "Feature"
+		}
+	]	
+}

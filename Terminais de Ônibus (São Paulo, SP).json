@@ -1,0 +1,341 @@
+﻿{
+    "type" : "FeatureCollection",
+    "features" : [{
+            "geometry" : {
+                "coordinates" : [-46.5848296069371, -23.583966704788],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Vila Prudente",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Vila Prudente (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6700456393412, -23.474883699307],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Vila Nova Cachoeirinha",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Vila Nova Cachoeirinha (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7184564501763, -23.7674553904215],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Varginha",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Varginha (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.4347483773322, -23.4917886860936],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "São Miguel",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal São Miguel (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.4764345671155, -23.6136168971176],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "São Mateus",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal São Mateus (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.5009920103409, -23.6141981523948],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Sapopemba",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Sapopemba (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7112441996088, -23.6543172524178],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Santo Amaro",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Santo Amaro (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6029489491205, -23.6031795422648],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Sacomã",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Sacomã (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.644858999537, -23.5343495986529],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Princesa Isabel",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Princesa Isabel (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7263751657499, -23.4862589490992],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Pirituba",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Pirituba (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.5480190605486, -23.518565592523],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Penha",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Penha (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7236067280352, -23.8332376598026],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Parelheiros",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Parelheiros (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6300536922791, -23.5472650792301],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Parque Dom Pedro II",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Parque Dom Pedro II (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6287781782158, -23.5478135393576],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Mercado",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Mercado (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6998674871094, -23.5201697994853],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Lapa",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Lapa (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7870952870159, -23.4317882196627],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Jardim Britânia",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Jardim Britânia (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7739356163605, -23.6905078194219],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Jardim Ângela",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Jardim Ângela (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7339791711748, -23.6436966524389],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "João Dias",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal João Dias (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.735515111541, -23.6685268711369],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Guarapiranga",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Guarapiranga (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6968824532641, -23.7365866675798],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Grajaú",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Grajaú (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.4079442819008, -23.5833673939848],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Cidade Tiradentes",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Cidade Tiradentes (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6626317363841, -23.4962210439028],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Casa Verde",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Casa Verde (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.5230488871341, -23.5583772382566],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Carrão",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Carrão (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.7625809942357, -23.654088067649],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Capelinha",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Capelinha (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6397587901428, -23.5494483517194],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Bandeira",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Bandeira (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.5542789397029, -23.5287522499361],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Aricanduva",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Aricanduva (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.475703100634, -23.5182810951488],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Antônio Estêvão de Carvalho",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Cidade Antônio Estêvão de Carvalho (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }, {
+            "geometry" : {
+                "coordinates" : [-46.6476275490328, -23.5405311273372],
+                "type" : "Point"
+            },
+            "properties" : {
+                "line" : "Terminal Urbano",
+                "name" : "Amaral Gurgel",
+                "type" : "Terminal de Ônibus",
+                "description" : "Terminal Amaral Gurgel (São Paulo, SP)"
+            },
+            "type" : "Feature"
+        }
+    ]
+}
